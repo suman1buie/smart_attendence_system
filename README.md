@@ -34,7 +34,7 @@ Got 2nd Place Among 50+ Team
   
 <h2>Usage :</h2>
 
-    python3 app.py makemigrations
+    python3 app.py 
    
 
 
